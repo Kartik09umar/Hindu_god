@@ -15,7 +15,7 @@ export default function Footer() {
 
       <div className="container relative z-10 mx-auto px-4">
         <div className="flex flex-col items-center text-center max-w-xl mx-auto">
-          <h3 className="mb-4 text-2xl font-semibold">Divine Darshan</h3>
+          <h3 className="mb-4 text-2xl font-semibold">Divine Darshan ram</h3>
           <p className="text-sm opacity-90">
             Explore and download high-quality images of Hindu deities for your devotional needs.
           </p>
