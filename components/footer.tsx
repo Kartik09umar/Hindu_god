@@ -17,7 +17,7 @@ export default function Footer() {
         <div className="flex flex-col items-center text-center max-w-xl mx-auto">
           <h3 className="mb-4 text-2xl font-semibold">Divine Darshan ram</h3>
           <p className="text-sm opacity-90">
-            Explore and download high-quality images of Hindu deities for your devotional needs.
+            Jai Shree Ra m JA i Hanuman Explore and download high-quality images of Hindu deities for your devotional needs.
           </p>
           <div className="mt-6 flex space-x-4">
             <Link href="https://instagram.com" className="rounded-full bg-white/10 p-2 hover:bg-white/20">
